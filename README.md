@@ -1,4 +1,4 @@
-# Kord AI
+# Olivier AI
 
 A powerful, multi-device WhatsApp bot built with Baileys. Fast to set up and easy to deploy.
 
@@ -8,8 +8,8 @@ A powerful, multi-device WhatsApp bot built with Baileys. Fast to set up and eas
 
 ## ⭐️ Star & Fork
 
-- [Star the repository](https://github.com/M3264/Kord-Ai)
-- [Fork it here](https://github.com/M3264/Kord-Ai/fork)
+- [Star the repository](https://github.com/@Olivier8765/Olivier-Ai)
+- [Fork it here](https://github.com/M3264/Olivier-Ai/fork)
 
 ---
 
@@ -18,7 +18,7 @@ A powerful, multi-device WhatsApp bot built with Baileys. Fast to set up and eas
 ### 1. Get a Session ID
 
 Visit:  
-**[https://kord.live/session](https://kord.live/session)**  
+**[https://Olivier.live/session](https://Olivier.live/session)**  
 Paste the session ID in your `config.env`
 
 ---
@@ -26,16 +26,16 @@ Paste the session ID in your `config.env`
 ### 2. Choose a Deployment Method
 
 Go to:  
-**[https://kord.live/deploy](https://kord.live/deploy)**
+**[https://Olivier.live/deploy](https://Olivier.live/deploy)**
 
-- For **Render**: [https://kord.live/deploy (render)](https://kord.live/deploy)
-- For **Panel**: [kord.live/deploy (panel)](https://kord.live/deploy)
-- For **VPS**: [kord.live/deploy (vps)](https://kord.live/deploy)
+- For **Render**: [https://Olivier.live/deploy (render)](https://Olivier.live/deploy)
+- For **Panel**: [Olivier.live/deploy (panel)](https://Olivier.live/deploy)
+- For **VPS**: [Olivier.live/deploy (vps)](https://Olivier.live/deploy)
 
 You can also deploy on any other platform that supports Node.js.  
 If you encounter any issue, reach out directly:
 
-> **Telegram Support**: [t.me/m32669](https://t.me/m32669)
+> **Telegram Support**: [t.me/@Olivier8765](https://t.me/@Olivier8765)
 
 ---
 
@@ -47,7 +47,6 @@ If you encounter any issue, reach out directly:
 - **WhatsApp Channel**  
   [Join Now](https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817)
 
-- **Telegram Channel**  
-  [Join Now](https://t.me/kordai_channel)
+  
 
 ---
